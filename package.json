@@ -1,0 +1,11 @@
+{
+  "name": "tailwindcss2-alpha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robbe Van Petegem <robbe@vanpetegem.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/ui": "^0.6.2",
+    "tailwindcss": "^2.0.0-alpha.1"
+  }
+}
